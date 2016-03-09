@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Document measurement definitions
 
 Summary -- Create a document containing the definitions of all important galaxy parameters. This document
 should also contain mappings from noiseless catalog parameters to noisy mea- sured values where reasonable to
